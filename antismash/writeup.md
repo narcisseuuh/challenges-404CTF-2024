@@ -1,0 +1,3 @@
+# Idée
+
+On peut réécrire des trucs tant chez le père que chez le fils mais par contre on a pas de moyen de smash le saved eip parce qu'il y a la protection du processus père de celui qui exécute la routine qui nous empêche de smash comme on veut...
